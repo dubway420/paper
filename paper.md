@@ -39,4 +39,4 @@ growth is dominated by coagulation.
 # Conclusions 
 We have have made fantastic insight into the BBOA aging
 process. Nonetheless, answers remain unanswered.
-Therefore, it is recommeneded we receieve more funding.
+Therefore, it is recommeneded we receive more funding.
