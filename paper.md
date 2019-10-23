@@ -1,6 +1,8 @@
 # Authors
-John Smith
-Huw Jones
+John Smith, University of Life
+Huw Jones, University of Manchester
+
+
 
 # Title
 
