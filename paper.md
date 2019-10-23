@@ -11,3 +11,5 @@ Particle size was measured using a PCASP, as described
 Bloggs et al 2004. Smith et al (1998) conducted several 
 studies in this region, but continental-scale 
 measurements had not previously been made.
+
+Add third paper in intro.
