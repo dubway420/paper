@@ -1,4 +1,5 @@
 # Authors
+Edward Jones, University of Manchester
 John Smith, University of Life
 Huw Jones, University of Manchester
 
