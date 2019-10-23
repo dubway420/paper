@@ -14,3 +14,7 @@ studies in this region, but continental-scale
 measurements had not previously been made.
 
 Add third paper in intro.
+
+# Simulations
+We simulate the evolution of BBOA over W Africa using John's 
+mod
