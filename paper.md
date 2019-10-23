@@ -22,6 +22,9 @@ Add third paper in intro.
 We simulate the evolution of BBOA over W Africa using John's 
 mod
 
+# Figures 
+Figures only go at the end in a draft paper.
+
 # Methodology 
 We compared simulations from John's model (Smith et al 2005)
 with our measurements. 
