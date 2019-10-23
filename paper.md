@@ -1,9 +1,13 @@
 # Authors
 Huw Jones
+John Smith
 
 # Title
 
+
 Size measurements of biomas burning aerosol over West Africa
+Agining of biomas burning aerosol over West Africa
+
 
 # Introduction
 We present measurements of BBOA over West Africa.
@@ -13,3 +17,7 @@ studies in this region, but continental-scale
 measurements had not previously been made.
 
 Add third paper in intro.
+
+# Simulations
+We simulate the evolution of BBOA over W Africa using John's 
+mod
