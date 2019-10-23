@@ -25,3 +25,7 @@ mod
 # Methodology 
 We compared simulations from John's model (Smith et al 2005)
 with our measurements. 
+
+# Results
+Our simulations and measurements indicate that particle 
+growth is dominated by coagulation. 
