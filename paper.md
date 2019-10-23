@@ -1,9 +1,10 @@
 # Authors
 Huw Jones
+John Smith
 
 # Title
 
-Measurements of biomas burning aerosol over West Africa
+Agining of biomas burning aerosol over West Africa
 
 # Introduction
 We present measurements of BBOA over West Africa.
