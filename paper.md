@@ -32,3 +32,8 @@ with our measurements.
 # Results
 Our simulations and measurements indicate that particle 
 growth is dominated by coagulation. 
+
+# Conclusions 
+We have have made fantastic insight into the BBOA aging
+process. Nonetheless, answers remain unanswered.
+Therefore, it is recommeneded we receieve more funding.
