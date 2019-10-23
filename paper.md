@@ -1,6 +1,6 @@
 # Authors
-Huw Jones
 John Smith
+Huw Jones
 
 # Title
 
